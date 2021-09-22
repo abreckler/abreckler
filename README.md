@@ -1,26 +1,25 @@
 ```python
-$ celefetch
-            ```                             cele@italy
-          `,,`      ,;cc;`                  ----------
-        `;;,`     `l0NWWKl`                 Uptime: "18 years"
-      `;c;,      `oXMMMMMXd,                Languages: "Python, C++"
-     ,;c;,      ,dNMMMMMMMNx,               OS: "Arch Linux"
-   `,clc,      ;xNMMWXOONMMWk;              Editor: "Neovim"
-  `;cll;`     ;oWMMNxc,,dNMMWO;`            Shell: "Zsh"
-  ;clll;`   `;oWMMNd,   `oXMMW0c`           Hobbies: "hip hop, football, gaming"
- ,cllll;`  `cKMMMXo`     `lKMMMKc`          Other: "2021 OII finalist (Olimpiadi Italiane di Informatica)"
-`;lllll;` `lXMMMKl`       `cKMMMKc`   ```   
-`;llllll;`;oWMW0c`         `cKWWNx, ,;;,    
-`;llloool;;cx0k;            `;doc;;;;;`     
-`;llooooool;;;,            `,;;cllc;,`      
- ,clooooooooolcc;;;;;;;;;cllodoc;;lk0o`     contacts
-  ,;looooooooddddddddddddddlc;, ,xNMMXo`    --------
-   `,;clooodddddddddoolc;;,`     ;oWMMXl`   Telegram: "t.me/alessiocelentano"
-      `,;;;;;;;;;;;,,``           ;xXXOc    Reddit: "u/alessiocelentano"
-                                   `,;,     Email: "alessiocelentano2003@gmail.com"
-```                                 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76879%20lines%20of%20code-blue)
+           MMM.           .MMM                  About
+           MMMMMMMMMMMMMMMMMMM                  ---------
+           MMMMMMMMMMMMMMMMMMM                  Uptime: 37 years    
+          MMMMMMMMMMMMMMMMMMMMM                 Languages: Javasript, Python, PHP
+         MMMMMMMMMMMMMMMMMMMMMMM                OS: Mac
+        MMMMMMMMMMMMMMMMMMMMMMMM                Editor: Sublime
+        MMMM::- -:::::::- -::MMMM               Shell: VI
+         MM~:~   ~:::::~   ~:~MM                Hobbies: Bitcoin, Golf, Poker, Philosophy
+    .. MMMMM::. .:::+:::. .::MMMMM ..           Other: Former online professional poker player
+          .MM::::: ._. :::::MM.
+             MMMM;:::::;MMMM
+      -MM        MMMMMMM
+      ^  M+     MMMMMMMMM
+          MMMMMMM MM MM MM                      Contact
+               MM MM MM MM                      ---------
+               MM MM MM MM                      Email: abreckler@gmail..com
+            .~~MM~MM~MM~MM~~.                   Website: adambreckler.com
+         ~~~~MM:~MM~~~MM~:MM~~~~
+        ~~~~~~==~==~~~==~==~~~~~~
+         ~~~~~~==~==~==~==~~~~~~
+             :~==~==~==~==~~
 
 **I'm an Early 🐤** 
 
@@ -48,8 +47,6 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Rome
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
