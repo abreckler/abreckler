@@ -16,7 +16,7 @@
                MM MM MM MM                      ---------
                MM MM MM MM                      Email: abreckler@gmail..com
             .~~MM~MM~MM~MM~~.                   Website: adambreckler.com
-         ~~~~MM:~MM~~~MM~:MM~~~~
+         ~~~~MM:~MM~~~MM~:MM~~~~                Twitter: @adambreckler
         ~~~~~~==~==~~~==~==~~~~~~
          ~~~~~~==~==~==~==~~~~~~
              :~==~==~==~==~~
